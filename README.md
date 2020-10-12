@@ -1,2 +1,2 @@
 # unity_rep
-shitty VR project made with my boozing buddies
+some code I wrote for crappy VR project made mostly for fun with my boozing buddies
